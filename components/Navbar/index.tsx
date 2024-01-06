@@ -10,8 +10,8 @@ const Navbar = () => {
         <Link href={"/login"} className="nav-item nav-link m-2">
           Login
         </Link>
-        <Link href={"/logout"} className="nav-item nav-link m-2">
-          Logout
+        <Link href={"/signup"} className="nav-item nav-link m-2">
+          Sign up
         </Link>
       </nav>
     </>
